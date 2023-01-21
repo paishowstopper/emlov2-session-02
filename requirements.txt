@@ -16,7 +16,7 @@ neptune-client
 mlflow
 comet-ml
 
-# demo
+# --------- demo --------- #
 
 gradio==3.3.1
 
